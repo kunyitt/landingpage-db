@@ -1,0 +1,12 @@
+
+color bg ##f6f6f6
+color footer & card2 ##1a4555
+color button #75b12d
+color card ##19576e
+color font ##012c38
+
+font family sans serif
+
+instagram https://www.instagram.com/chatama.yogya/
+
+contact 1 http://wa.me/085783224932
