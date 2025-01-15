@@ -1293,7 +1293,7 @@ the website, in dark theme
 
 /*==================== KEUNGGULAN ====================*/
 .features {
-  margin-top: 4rem;
+  margin-top: 3rem;
   padding: 2rem 0;
 }
 
@@ -1342,6 +1342,7 @@ the website, in dark theme
 .features__details-description {
   font-size: 0.95rem;
   color: var(--text-light-color);
+  margin-bottom: 1rem;
 }
 
 .features__img {
@@ -1349,5 +1350,3 @@ the website, in dark theme
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
-
-
