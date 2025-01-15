@@ -147,7 +147,7 @@ sr.reveal(`.steps__card, .product__card, .questions__group, .footer`,{interval: 
 sr.reveal('.features__data');
 sr.reveal('.features__img', { delay: 500 });
 sr.reveal('.features__details-item', { interval: 200 });
-sr.reveal('#download', { delay: 0 });
+sr.reveal('.download', { delay: 0 });
 
 
 
